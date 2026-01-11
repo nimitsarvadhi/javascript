@@ -1,4 +1,4 @@
-//difference between this in normal function and arrow function
+//difference between this in normal function and arrow function expression
 
 function normal(){
     console.log(this)
